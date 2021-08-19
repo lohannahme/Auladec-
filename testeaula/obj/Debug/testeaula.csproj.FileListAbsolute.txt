@@ -1,0 +1,7 @@
+C:\Users\hanna\source\repos\testeaula\bin\Debug\testeaula.exe.config
+C:\Users\hanna\source\repos\testeaula\bin\Debug\testeaula.exe
+C:\Users\hanna\source\repos\testeaula\bin\Debug\testeaula.pdb
+C:\Users\hanna\source\repos\testeaula\obj\Debug\testeaula.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\testeaula\obj\Debug\testeaula.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\testeaula\obj\Debug\testeaula.exe
+C:\Users\hanna\source\repos\testeaula\obj\Debug\testeaula.pdb
